@@ -66,8 +66,7 @@ a.control_prev, a.control_next {
 }
 
 a.control_prev:hover, a.control_next:hover {
-  opacity: 1;
-  
+  opacity: 1; 
 }
 
 a.control_prev {
