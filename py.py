@@ -1,0 +1,4 @@
+x = ashkan 
+
+
+print(x)
